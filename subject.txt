@@ -1,0 +1,5 @@
+Ayrıca print() fonksiyonu dışında, open() adlı başka bir fonksiyon yardımıyla da
+dosyaları açabileceğimizi ve bu dosyaların üzerinde çeşitli işlemleri gerçekleştirebileceğimizi
+öğrenmiştik. Ancak gerek print() fonksiyonunun file parametresi, gerekse open()
+fonksiyonuyla şimdiye kadar yaptığımız örnekler aracılığıyla öğrendiklerimiz dosyalara ilişkin
+çok sınırlı işlemleri yerine getirmemizi sağlıyordu
