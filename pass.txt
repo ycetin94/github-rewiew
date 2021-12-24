@@ -1,2 +1,1 @@
-Assignment - 2 (SQL | Aggregate Functions & JOINs) is due
-Friday, 24 December, 11:59 PM bu satır github üzerinden eklendi
+bu satır yerel repoda feaute brancte yazıldı
