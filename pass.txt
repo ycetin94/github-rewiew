@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+bu satır yerel repoda feaute brancte yazıldı
+=======
 bu satırlar github web üzerinden dev brancte yazıldı
+>>>>>>> dev
